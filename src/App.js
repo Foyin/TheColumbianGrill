@@ -135,7 +135,7 @@ function MainNav(props) {
               </div>
               <ScrollToTop>
               <Switch>
-                <Route exact path="/" component={Home} />
+                <Route exact path="/*" component={Home} />
               </Switch>
               </ScrollToTop>
               <Contact/>
