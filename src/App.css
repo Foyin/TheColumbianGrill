@@ -775,6 +775,7 @@ box-shadow: 2px 1px 8px black;
   background:  black;
   display: flex;
   align-items: center;
+  z-index: 3;
 }
 
 .navbar {
