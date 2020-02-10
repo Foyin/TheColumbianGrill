@@ -16,8 +16,8 @@
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",
     "react-scripts": "^3.0.1",
-    "react-art": "~16.0.0"
-
+    "react-art": "~16.0.0",
+    "serve": "^11.3.0"
   },
   "scripts": {
     "start": "serve -s build",
