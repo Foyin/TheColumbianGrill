@@ -191,7 +191,6 @@ a {
   font-size: 80%;
   border: none;
   cursor: pointer;
-  position: fixed;
   padding-right: 7vw;
   padding-top: 6vh;
   text-shadow: -1px 1px 2px #FE3302;
@@ -770,7 +769,7 @@ box-shadow: 2px 1px 8px black;
   width: 100%;
   background: black;
   font-size: 200%;
-  position: relative;
+  position: fixed;
   top: 0;
   font-family: verdana;
   background:  black;
