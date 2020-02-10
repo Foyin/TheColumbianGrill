@@ -164,9 +164,9 @@ a {
   height: 10vh;
   width: 100%;
   font-size: 250%;
-  position: fixed;
+  position: relative;
   font-family: verdana;
-  background-color: rgba(255, 255, 128, .5);
+  background-color: rgba(255, 255, 128, .1);
 }
 
 @media screen and (max-width: 600px) {
@@ -769,13 +769,12 @@ box-shadow: 2px 1px 8px black;
   width: 100%;
   background: black;
   font-size: 200%;
-  position: fixed;
+  position: relative;
   top: 0;
   font-family: verdana;
   background:  black;
   display: flex;
   align-items: center;
-  z-index: 3;
 }
 
 .navbar {
@@ -784,9 +783,8 @@ box-shadow: 2px 1px 8px black;
 .main-nav {
   list-style-type: none;
   display: none;
-  margin-left: auto;
     position: fixed;
-    left: 45vw;
+    left: 55vw;
     z-index: 3;
 }
 
