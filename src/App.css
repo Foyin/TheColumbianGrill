@@ -781,11 +781,11 @@ box-shadow: 2px 1px 8px black;
 }
 
 .main-nav {
+  position: fixed;
   list-style-type: none;
   display: none;
-    position: fixed;
-    left: 55vw;
-    z-index: 3;
+  left: 55vw;
+  z-index: 3;
 }
 
 .nav-links{
