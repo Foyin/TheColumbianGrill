@@ -191,7 +191,8 @@ a {
   font-size: 80%;
   border: none;
   cursor: pointer;
-  padding-right: 9vw;
+  position: fixed;
+  padding-right: 7vw;
   padding-top: 6vh;
   text-shadow: -1px 1px 2px #FE3302;
 }
