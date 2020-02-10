@@ -782,7 +782,6 @@ box-shadow: 2px 1px 8px black;
 
 .main-nav {
   position: fixed;
-  width: 100%;
   list-style-type: none;
   display: none;
   left: 55vw;
