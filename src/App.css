@@ -859,7 +859,7 @@ box-shadow: 2px 1px 8px black;
 
 /*Mobile view*/
 
-@media only screen and(max-width: 375px){
+@media only screen and(max-width: 667px){
   .hideme{
 
   }
@@ -1071,7 +1071,7 @@ opacity: 0;
   }
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 667px) {
   .navbar {
     display: flex;
     justify-content: space-between;
