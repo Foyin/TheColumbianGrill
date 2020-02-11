@@ -100,7 +100,7 @@ a {
   color: white;
   top: 20vh;
   left: 30vw;
-  font-size: 40vw;
+  font-size: 4vw;
   font-family: Franklin Gothic Medium;
 }
 
@@ -1000,7 +1000,7 @@ box-shadow: 2px 1px 8px black;
   color: white;
   top: 27vh;
   left: 25vw;
-  font-size: 4vw;
+  font-size: 400%;
   font-family: Franklin Gothic Medium;
 }
 
