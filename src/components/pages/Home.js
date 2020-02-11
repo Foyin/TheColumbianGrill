@@ -35,7 +35,7 @@ function LandingMainLayout(props){
         <img 
           width='400vw'
           height='500vh'
-          src='../../images/cgmenu.jpg'
+          src='images/cgmenu.jpg'
         />
       </div>
   ); 
