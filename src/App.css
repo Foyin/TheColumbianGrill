@@ -116,7 +116,7 @@ a {
 
 
 .landingMainLayout{
-	position: static;
+  position: static;
   background-color: #F0E68C;
   filter: contrast(125%);
   padding: 5%;
@@ -1079,7 +1079,7 @@ opacity: 0;
 	}
 }
 
-@media screen and (min-width: 667px) {
+@media screen and (orientation:landscape) {
   .navbar {
     display: flex;
     justify-content: space-between;
