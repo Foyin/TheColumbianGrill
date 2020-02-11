@@ -59,7 +59,7 @@ a {
   font-family: Brush Script MT;
   color: #FE3302;
   position: absolute;
-  font-size: 150%;
+  font-size: 50%;
   top: 70%;
   left: 4%;
   -ms-transform: rotate(270deg); /* IE 9 */
@@ -100,7 +100,7 @@ a {
   color: white;
   top: 20vh;
   left: 30vw;
-  font-size: 400%;
+  font-size: 200%;
   font-family: Franklin Gothic Medium;
 }
 
