@@ -809,7 +809,7 @@ box-shadow: 2px 1px 8px black;
   top: 10vh;
   padding-left: 5vw;
   border-radius: 5px;
-  background-color: rgba(254, 51, 2, 0.3);
+  background-color: rgba(254, 51, 2, 0.6);
 }
 
 .toppings{
@@ -966,7 +966,7 @@ box-shadow: 2px 1px 8px black;
   }
 
 .LandingHeader img{
-   top: 0;
+   top: 5;
    left: 0;
    width: 100%;
    height: 80%;
@@ -998,7 +998,7 @@ box-shadow: 2px 1px 8px black;
   position: absolute;
   width: 60vw;
   color: white;
-  top: 20vh;
+  top: 27vh;
   left: 25vw;
   font-size: 400%;
   font-family: Franklin Gothic Medium;
@@ -1014,6 +1014,10 @@ box-shadow: 2px 1px 8px black;
   left: 30vw;
   top: 50vh;
   opacity: 0;
+}
+	
+.arrow{
+  top: 80vh;
 }
 
 #NotificationSection{
