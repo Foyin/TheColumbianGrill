@@ -1072,7 +1072,7 @@ opacity: 0;
 }
 
 @media screen and (orientation:landscape){
-	.landingmessage{
+	.landingMessage{
 		font-size: 200%;
 	}
 	
