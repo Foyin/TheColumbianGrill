@@ -100,7 +100,7 @@ a {
   color: white;
   top: 20vh;
   left: 30vw;
-  font-size: 400%;
+  font-size: 40vw;
   font-family: Franklin Gothic Medium;
 }
 
@@ -1072,9 +1072,7 @@ opacity: 0;
 }
 
 @media screen and (orientation:landscape){
-	.landingMessage{
-		font-size: 200%;
-	}
+	
 	
 	.tagLine{
 		font-size: 50%;
