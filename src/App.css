@@ -100,7 +100,7 @@ a {
   color: white;
   top: 20vh;
   left: 30vw;
-  font-size: 200%;
+  font-size: 400%;
   font-family: Franklin Gothic Medium;
 }
 
@@ -859,7 +859,7 @@ box-shadow: 2px 1px 8px black;
 
 /*Mobile view*/
 
-@media only screen and(max-width: 667px){
+@media screen and (orientation:portrait){
   .hideme{
 
   }
@@ -1069,6 +1069,16 @@ opacity: 0;
     font-size: 350%;
     opacity: 1;
   }
+}
+
+@media screen and (orientation:landscape){
+	.landingmessage{
+		font-size: 200%;
+	}
+	
+	.tagLine{
+		font-size: 50%;
+	}
 }
 
 @media screen and (min-width: 667px) {
