@@ -59,7 +59,7 @@ a {
   font-family: Brush Script MT;
   color: #FE3302;
   position: absolute;
-  font-size: 50%;
+  font-size: 2vw;
   top: 70%;
   left: 4%;
   -ms-transform: rotate(270deg); /* IE 9 */
@@ -1075,7 +1075,7 @@ opacity: 0;
 	
 	
 	.tagLine{
-		font-size: 1vw;
+		font-size: 2vw;
 	}
 }
 
