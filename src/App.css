@@ -781,7 +781,8 @@ box-shadow: 2px 1px 8px black;
 }
 
 .main-nav {
-  position: fixed;
+   position: -webkit-sticky;
+  position: sticky;
   list-style-type: none;
   display: none;
   left: 55vw;
