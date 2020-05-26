@@ -114,9 +114,9 @@ function Home() {
     <div>
       <LandingHeader/>
       <NotificationSection line1="About Us" 
-                                            line2="Colombian grill offers top class grilling services to cater to any kind of event like, Weddings, BBQs parties, Beach parties, Family functions and much more"
-                                            line3="We also offer delivery services to your location anywhere in Lagos. We have a very interesting menu that can be yailored to suit your event ranging from burgers to Pasta, Grilled fish, Chicken and Turkey."
-                                            line4="Have a look at our menu and place your orders today"/>
+                                            line2="Colombian grill offers top class grilling services to cater to any kind of event like, Weddings, BBQs parties, Beach parties, Family functions and much more."
+                                            line3="We also offer delivery services to your location anywhere in Lagos. We have a very interesting menu that can be tailored to suit your event ranging from burgers to Pasta, Grilled fish, Chicken and Turkey."
+                                            line4="Have a look at our menu and place your orders today."/>
       <LandingMainLayout button="MENU"/>
       <Gallery/>
     </div>
