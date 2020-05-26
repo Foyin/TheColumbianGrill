@@ -13,7 +13,7 @@ function Contact(props){
         <hr class="hr2"/>
         <div class="info">
           <div><b>Where we're at </b></div>
-          <div>Orders are made a Day before Delivery<br/>
+          <div>Orders are made a Day before Delivery<br/><br/>
                 Feyi: 07084918769<br/>
                 Greg: +234 703 030 5833<br/>
                 Bolaji: +234 815 367 4126</div>
