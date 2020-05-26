@@ -14,7 +14,7 @@ function LandingHeader(props){
   return (
     <div className="LandingHeader parallax">
       <img src='../../images/chickenGif.gif'/>
-      <div className="tagLine">Something cool about the food</div>
+      <div className="tagLine">Finger licking barbecue and chicken ;)</div>
       <div className="landingMessage">
         GET IT WHILE IT'S<span style={{color:"#FE3302"}}><b> HOT <FontAwesomeIcon icon={faFire} /></b></span>
         <div>Sicario <span style={{color:"#FE3302"}}><b>TURKEY</b></span></div>
